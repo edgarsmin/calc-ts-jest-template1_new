@@ -12,5 +12,4 @@ describe('MathOperations Class testing', () => {
     mathOps = new MathOperations()
     expect(mathOps.add(-3, 3)).toBe(0)
   })
-
 })

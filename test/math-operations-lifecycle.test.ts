@@ -16,5 +16,4 @@ describe('MathOperations Class testing', () => {
   test('should add a negative and positive number correctly', () => {
     expect(mathOps.add(-3, 3)).toBe(0)
   })
-
 })
